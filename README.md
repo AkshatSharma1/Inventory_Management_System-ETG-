@@ -6,7 +6,7 @@
 ## How to get started:
   This project is mainly divided into two files:
 
-  1) Product insertion in Inventory: In this part, We create a record_dataSet.json file which contains all the stock items with details like product id , name, quantity, price,        isAvailable, Expiry date. Here we can add new goods in the inventory and the records will be stored in records.json file.
+  1) Product insertion in Inventory: <br />In this part, We create a record_dataSet.json file which contains all the stock items with details like product id , name, quantity, price,        isAvailable, Expiry date. Here we can add new goods in the inventory and the records will be stored in records.json file.
 <br />
   2) Inventory_Purchase:
     a) We enter the transaction or purchase details like product id,no. of items purchased,name of customer, mobile number of customer.<br />
